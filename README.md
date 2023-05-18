@@ -35,7 +35,7 @@
 ### Familiar Tech Stack:
 
 <!-- coding boy -->
-<img width="40%" align="right" alt="Coding Boy" src="https://github.com/dbarman8697/dbarman8697/blob/master/coding.gif?raw=true" />
+<img width="40%" align="right" alt="Coding Boy" src="https://github.com/dbarman8697/dbarman8697/blob/main/coding.gif?raw=true" />
 
 <!-- language -->
 
@@ -58,7 +58,7 @@
 <br/>
 <!-- ### My GitHub Stats: -->
  <img
-       height="275rem" width="100%"
+       height="300rem" width="100%"
         src="https://github-readme-activity-graph.cyclic.app/graph?username=dbarman8697&theme=react-dark&hide_border=true"
       />
 
@@ -68,7 +68,7 @@
  <img height="165rem" width="100%" src="https://github-readme-stats.vercel.app/api?username=dbarman8697&theme=react&border_radius=4.6&hide_border=true&layout=compact&show_icons=true"
       />
 
-<img height="220px" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=dbarman8697&theme=react&border_radius=4.6&show_icons=true&count_private=true&hide_border=true&show_icons=true"
+<img height="250px" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=dbarman8697&theme=react&border_radius=4.6&show_icons=true&count_private=true&hide_border=true&show_icons=true"
       />
 
 
