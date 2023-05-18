@@ -34,9 +34,6 @@
 
 ### Familiar Tech Stack:
 
-<!-- coding boy -->
-<img width="40%" align="right" alt="Coding Boy" src="https://raw.githubusercontent.com/dbarman8697/dbarman8697/main/coding.gif" />
-
 <!-- language -->
 
 [![](https://skillicons.dev/icons?i=javascript,react,redux,nodejs,expressjs,html,css)]()
