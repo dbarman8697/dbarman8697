@@ -35,7 +35,7 @@
 ### Familiar Tech Stack:
 
 <!-- coding boy -->
-<img width="40%" align="right" alt="Coding Boy" src="https://github.com/dbarman8697/dbarman8697/blob/main/coding.gif?raw=true" />
+<img width="40%" align="right" alt="Coding Boy" src="https://github.com/dbarman8697/dbarman8697/blob/main/coding.gif" />
 
 <!-- language -->
 
