@@ -35,7 +35,7 @@
 ### Familiar Tech Stack:
 
 <!-- coding boy -->
-<img width="40%" align="right" alt="Coding Boy" src="https://github.com/dbarman8697/dbarman8697/blob/main/coding.gif" />
+<!-- <img width="40%" align="right" alt="Coding Boy" src="https://github.com/dbarman8697/dbarman8697/blob/main/coding.gif" /> -->
 
 <!-- language -->
 
@@ -70,6 +70,3 @@
 
 <img height="250px" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=dbarman8697&theme=react&border_radius=4.6&show_icons=true&count_private=true&hide_border=true&show_icons=true"
       />
-
-
-![](./profile-3d-contrib/profile-south-season-animate.svg)
