@@ -62,10 +62,6 @@
 
 <br/>
 <!-- ### My GitHub Stats: -->
- <img
-       height="300rem" width="100%"
-        src="https://github-readme-activity-graph.cyclic.app/graph?username=dbarman8697&theme=react-dark&hide_border=true"
-      />
 
   <img height="165rem" width="100%"
         src="https://github-readme-streak-stats.herokuapp.com?user=dbarman8697&_border=true&theme=dark&hide_border=true&theme=react"
